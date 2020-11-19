@@ -1,0 +1,21 @@
+{
+  "name": "menor-pwa",
+  "short_name": "menor-pwa",
+  "theme_color": "#2a0044",
+  "background_color": "#2a0044",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "images/menor-pwa.PNG",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {​​
+      "src": "images/maskable_icon.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }​​
+  ]
+}
