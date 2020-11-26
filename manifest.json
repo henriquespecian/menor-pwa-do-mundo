@@ -11,11 +11,16 @@
       "sizes": "144x144",
       "type": "image/png"
     },
-    {​​
+    {
       "src": "images/maskable_icon.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any maskable"
-    }​​
+    },
+    {
+      "src":"images/pulguinha.PNG",
+      "sizes": "512x512",
+      "type":"image/png"
+    }
   ]
 }
